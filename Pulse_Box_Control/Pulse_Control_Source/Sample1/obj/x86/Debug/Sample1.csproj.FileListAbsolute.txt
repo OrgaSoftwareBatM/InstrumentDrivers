@@ -1,0 +1,11 @@
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\bin\Debug\Sample1.exe
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\bin\Debug\Sample1.pdb
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\bin\Debug\AIOUSBNet.dll
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\obj\x86\Debug\Sample1.Form1.resources
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\obj\x86\Debug\Sample1.FormDetect.resources
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\obj\x86\Debug\Sample1.Properties.Resources.resources
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\obj\x86\Debug\Sample1.exe
+C:\Program Files\ACCES\USB-AO16-16A\Win32\C#\DAC\Sample1\obj\x86\Debug\Sample1.pdb
