@@ -1,5 +1,5 @@
 # Instrument Drivers
-Version control for software of standalone Instruments (outside of the LabVIEW Batch programme)
+Version control for software of standalone instruments (outside of the LabVIEW Batch program)
 
 List of instruments and references:
 - HP 35670A (now Agilent/Keysight VNA 1Hz to 100kHz) : http://sine.ni.com/apps/utf8/niid_web_display.download_page?p_id_guid=015055A2BB3E343CE0440003BA7CCD71
